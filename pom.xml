@@ -5,7 +5,7 @@
   <artifactId>SmellyCat</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>my-app</name>
+  <name>SmellyCat2</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
